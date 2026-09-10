@@ -1,0 +1,7 @@
+customtkinter
+pywebview
+ytmusicapi
+yt-dlp
+spotifyscraper
+requests
+pyinstaller

@@ -1,0 +1,20 @@
+# Секретные данные и авторизация (НЕЛЬЗЯ выкладывать!)
+browser.json
+oauth.json
+config.json
+spotify_snapshot.json
+lost_tracks.json
+
+# Логи и отчеты об ошибках
+*.log
+syncify.log
+crash.log
+
+# Папки сборки PyInstaller (тяжелые файлы)
+build/
+dist/
+*.spec
+
+# Временные файлы Python
+__pycache__/
+*.pyc
