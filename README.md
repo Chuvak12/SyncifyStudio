@@ -6,6 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.2.0-10B981?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/AI-Gemini%203.8%20Flash-8E75FF?style=for-the-badge&logo=google&logoColor=white" alt="Gemini 3.8 Flash">
   <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Platform-Windows_10_%2F_11-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Platform">
   <img src="https://img.shields.io/badge/License-MIT-gray?style=for-the-badge" alt="License">
@@ -109,6 +110,14 @@ python app.py
 - Программа не требует ввода паролей от аккаунтов.
 - Работает без внешних промежуточных серверов: все запросы идут напрямую `Ваш ПК ➔ Spotify` и `Ваш ПК ➔ Google`.
 - Чувствительные данные (`browser.json`, ссылки на плейлисты) защищены правилами `.gitignore` и не попадут в публичный репозиторий.
+
+---
+
+## 🤖 Авторство и разработка
+
+Проект полностью спроектирован, написан и оптимизирован в диалоге с **Google Gemini 3.8 Flash** под управлением [@Chuvak12](https://github.com/Chuvak12).  
+
+*Это наглядный пример того, как современный ИИ способен с нуля разработать, отладить и упаковать в продакшн полноценное настольное приложение со сложной архитектурой, многопоточностью и дизайном.*
 
 ---
 
